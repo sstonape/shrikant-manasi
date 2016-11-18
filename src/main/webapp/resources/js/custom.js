@@ -26,7 +26,7 @@ var _initSlider = function(){
  * Use to show countdown timeer
  */
 var  _showCount = function(){
-    var deadline = '2016/12/03';
+    var deadline = '2016/12/03 10:31:00';
     $(".remTime")
       .countdown(deadline, function(event) {
         $(this).find(".week").html(event.strftime('%W'));

@@ -4,7 +4,7 @@
 <html>
 <head>
 	<meta charset="utf-8">
-	<title>Wedding Shrikant</title>
+	<title>Shrikant Weds Manasi</title>
 	<meta keywords="">
 	<meta description="">
 	<link href="https://fonts.googleapis.com/css?family=Pacifico" rel="stylesheet">
@@ -71,9 +71,9 @@
 			<i class="iconc-date"></i>
 			<h3>3rd December</h3>
 			<address>
-				<p>Chandani Chowk, Next Hotel Garden Court, Pune</p>
-				<p>Chandani Chowk, Pune</p>
-				<p>From 6pm onwards</p>
+				<p>VINKAR HALL, Besides Nirmal Park, Chavhan Nagar,</p>
+				<p>Padmavati, Pune - 411043</p>
+				<p>@10:31 AM</p>
 			</address>
 		</div>
 	</div>
@@ -89,9 +89,8 @@
 					<img src="resources/images/shrikant.jpg" alt="Shirkant">
 				</div>
 				<h3>About Him</h3>
-				<p>Lorem ipsum dolor sit amet, consectetuer 
-					adipiscing elit. Aenean commodo ligula eget dolor. 
-					Aenean massa. Cum sociis 
+				<p>SHRIKANT TONAPE, works as a Software 
+					Developer in Webonise Lab Pvt. Ltd.
 				</p>
 			</div>
 			<div class="divider">
@@ -101,10 +100,9 @@
 				<div class="profilePic">
 					<img src="resources/images/manasi.jpg" alt="Manasi">
 				</div>
-				<h3>About Him</h3>
-				<p>Lorem ipsum dolor sit amet, consectetuer 
-					adipiscing elit. Aenean commodo ligula eget dolor. 
-					Aenean massa. Cum sociis 
+				<h3>About Her</h3>
+				<p>MANASI GAIKWAD, works as a Design Engineer in
+				Penta Designers Pvt. Ltd. 
 				</p>
 			</div>
 		</div>
