@@ -15,10 +15,10 @@ var _initSlider = function(){
       animation: 'random',
       animationDuration: 20000,
       slides: [
-        { src: 'images/slide1.jpg' },
-        { src: 'images/slide2.jpg' },
-        { src: 'images/slide3.jpg' },
-        { src: 'images/slide4.jpg' }
+        { src: 'resources/images/slide1.JPG' },
+        { src: 'resources/images/slide2.JPG' },
+        { src: 'resources/images/slide3.JPG' },
+        { src: 'resources/images/slide4.JPG' }
       ]
     });
 };
