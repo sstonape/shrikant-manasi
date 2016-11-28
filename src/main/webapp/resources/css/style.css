@@ -51,12 +51,12 @@ img {
 .btnc:focus,
 .btnc:visited,
 .btnc:active {
-	background: #fda786;
+	background: #fe4600;
 	color: #fff;
 	outline: none;
 }
 .btnc:hover {
-	background: #fe4600;
+	
 	color: #fff;
 }
 input[type="text"]{
@@ -79,7 +79,7 @@ input[type="text"]:focus {
 	width: 100%;
 }
 .vegas-overlay{
-	background: url("../images/love-small.png") center center;
+	background: none;
 }
 .overlay {
 	position: absolute;
@@ -87,7 +87,7 @@ input[type="text"]:focus {
 	left: 0;
 	width: 100%;
 	height: 100%;
-	background: rgba(0,0,0,0.7);
+	background: rgba(0,0,0,0.6);
 	z-index: 11;
 }
 .slideTxt {
@@ -107,17 +107,19 @@ input[type="text"]:focus {
 	animation: scaleUpDown 2s infinite alternate;
 }
 .slideTxt p {
-	font-size: 14px;
-	line-height: 18px;
 	color: #fff;
-	text-transform: uppercase;
 	margin: 0;
+}
+.and {
+	font-size: 18px;
+	line-height: 22px;
+	text-transform: uppercase;
 }
 .slideTxt h2 {
 	font-family: 'Boogaloo', cursive;
-	font-size: 40px;
-	line-height: 44px;
-	margin: 10px 0;
+	font-size: 32px;
+	line-height: 40px;
+	margin: 5px 0;
 	color: rgba(255,167,134,0.9);
 	text-transform: uppercase;	
 }
@@ -125,17 +127,20 @@ input[type="text"]:focus {
 	padding: 30px 0;
 }
 .time h2,
-.time h3 {
+.time h3,
+.invite h2 {
 	text-align: center;
 }
-.time h2 {
+.time h2,
+.invite h2 {
 	font-family: 'Pacifico', cursive;
 	margin: 0 0 10px 0;
 	font-size: 26px;
 	line-height: 30px;
 	color: #fe4600;
 }
-.time h3 {
+.time h3,
+.invite h3 {
 	font-size: 14px;
 	line-height: 18px;
 	color: #ff8b5e;
@@ -194,11 +199,13 @@ input[type="text"]:focus {
 .events {
 	padding: 60px 0;
 	position: relative;	
-	background: url("../images/event-bg-1.png") top center no-repeat;
+	background: url("../images/IMG_9777.JPG") center center no-repeat;
 	background-size: cover;
+	background-position: 0 -170px;
 }
 .events .overlay {
-	background: rgba(255,189,164,0.4);
+	background: #000000;
+    opacity: 0.6;
 }
 .events h2,
 .events h3 {
@@ -314,6 +321,10 @@ input[type="text"]:focus {
 
 	.events{
 		padding: 40px 10px;
+		background: url(../images/shrikant-manasi8.JPG) left top no-repeat;
+		background-size : cover;
+		background-position: -50px 0;
+		
 	}
 
 	.couple h3{
@@ -332,4 +343,30 @@ input[type="text"]:focus {
 	.joinus{
 		padding: 20px 10px;
 	}
+}
+
+.galleryUs {
+	padding: 30px 0;
+	background: #fffafa;
+}
+.galleryUs h2 {
+	font-family: 'Pacifico', cursive;
+	color: #fe4600;
+	margin: 0 0 40px 0;	
+}
+.fwSlider .slide {
+	width: 150px;
+	margin: 0 10px;
+}
+.btncError {
+	display: none;
+}
+.invite {
+	padding: 30px 0;
+	background: #fffafa;
+}
+.invite p {
+	font-size: 16px;
+	line-height: 20px;
+	color: #e90014;
 }

@@ -1,6 +1,20 @@
 $(document).on("ready",function(){  
     _initSlider();
     _showCount();
+    $(".single_image").fancybox();
+    $(".btnc").on("click",function() {
+      var eTarget = $(this).data("target")
+      if($(".inputName").val().length >= 2){
+    	  $(eTarget).slideDown("slow");
+    	  setTimeout(function(){
+    	     $(eTarget).slideUp("slow");
+    	     $("html, body").animate({ scrollTop: 0 }, 600);  
+    	     $(".inputName").val('');
+    	  }, 2500);  
+
+      }
+      
+    });
 });
 /**
  * Use to init slider 
@@ -8,17 +22,21 @@ $(document).on("ready",function(){
 var _initSlider = function(){
   $('.heroSlider').vegas({
       overlay: true,
-      transition: 'blur', 
+      transition: 'fade', 
       transitionDuration: 4000,
       delay: 10000,
       color: 'red',
       animation: 'random',
-      animationDuration: 20000,
+      animationDuration: 25000,
       slides: [
-        { src: 'resources/images/slide1.JPG' },
-        { src: 'resources/images/slide2.JPG' },
-        { src: 'resources/images/slide3.JPG' },
-        { src: 'resources/images/slide4.JPG' }
+		{ src: 'resources/images/slide1.jpg' },
+		{ src: 'resources/images/shrikant-manasi2.JPG' },
+		{ src: 'resources/images/shrikant-manasi3.JPG' },
+		{ src: 'resources/images/shrikant-manasi6.JPG' },
+		{ src: 'resources/images/shrikant-manasi7.JPG' },
+		{ src: 'resources/images/shrikant-manasi8.JPG' },
+		{ src: 'resources/images/shrikant-manasi9.JPG' },
+		{ src: 'resources/images/shrikant-manasi11.JPG' },
       ]
     });
 };
