@@ -2,7 +2,7 @@
 <html>
 <head>
 	<meta charset="utf-8">
-	<title>Wedding Shrikant</title>
+	<title>Shrikant weds Manasi</title>
 	<meta keywords="">
 	<meta description="">
 	<meta name="viewport" content="initial-scale=1, maximum-scale=1">
@@ -163,35 +163,35 @@
 	    				data-cycle-pager-template="<li><span></span></li>"
 	                	data-cycle-log="false">
 
-						<a class="slide single_image" href="resources/images/shrikant-manasi2.JPG">
-		    				<img src="resources/images/shrikant-manasi2.JPG" alt="our culture">
+						<a class="slide single_image" href="resources/images/edited/shrikant-manasi2.jpg">
+		    				<img src="resources/images/edited/shrikant-manasi2.jpg" alt="our culture">
 		    			</a>
-		    			<a class="slide single_image" href="resources/images/shrikant-manasi7.JPG" >
-		    				<img src="resources/images/shrikant-manasi7.JPG" alt="our culture">
+		    			<a class="slide single_image" href="resources/images/edited/shrikant-manasi7.jpg" >
+		    				<img src="resources/images/edited/shrikant-manasi7.jpg" alt="our culture">
 		    			</a>
 		    			<a class="slide single_image" href="resources/images/shrikant-manasi3.JPG">
 		    				<img src="resources/images/shrikant-manasi3.JPG" alt="our culture">
 		    			</a>
-		    			<a class="slide single_image" href="resources/images/shrikant-manasi11.JPG">
-		    				<img src="resources/images/shrikant-manasi11.JPG" alt="our culture">
+		    			<a class="slide single_image" href="resources/images/edited/shrikant-manasi11.jpg">
+		    				<img src="resources/images/edited/shrikant-manasi11.jpg" alt="our culture">
 		    			</a>
 		    			<a class="slide single_image" href="resources/images/shrikant-manasi6.JPG">
 		    				<img src="resources/images/shrikant-manasi6.JPG" alt="our culture">
 		    			</a>
-		    			<a class="slide single_image" href="resources/images/shrikant-manasi13.JPG">
-		    				<img src="resources/images/shrikant-manasi13.JPG" alt="our culture">
+		    			<a class="slide single_image" href="resources/images/edited/shrikant-manasi13.jpg">
+		    				<img src="resources/images/edited/shrikant-manasi13.jpg" alt="our culture">
 		    			</a>
-		    			<a class="slide single_image" href="resources/images/shrikant-manasi8.JPG">
-		    				<img src="resources/images/shrikant-manasi8.JPG" alt="our culture">
+		    			<a class="slide single_image" href="resources/images/edited/shrikant-manasi8.jpg">
+		    				<img src="resources/images/edited/shrikant-manasi8.jpg" alt="our culture">
 		    			</a>
-		    			<a class="slide single_image" href="resources/images/DSC_9403.JPG">
-		    				<img src="resources/images/DSC_9403.JPG" alt="our culture">
+		    			<a class="slide single_image" href="resources/images/edited/DSC_9403.jpg">
+		    				<img src="resources/images/edited/DSC_9403.jpg" alt="our culture">
 		    			</a>
-		    			<a class="slide single_image" href="resources/images/DSC_9502.JPG">
-		    				<img src="resources/images/DSC_9502.JPG" alt="our culture">
+		    			<a class="slide single_image" href="resources/images/edited/DSC_9502.jpg">
+		    				<img src="resources/images/edited/DSC_9502.jpg" alt="our culture">
 		    			</a>
-		    			<a class="slide single_image" href="resources/images/IMG_9776.JPG">
-		    				<img src="resources/images/IMG_9776.JPG" alt="our culture">
+		    			<a class="slide single_image" href="resources/images/edited/IMG_9776.jpg">
+		    				<img src="resources/images/edited/IMG_9776.jpg" alt="our culture">
 		    			</a>
 		    		</div>
 			    	<ul class="slider-nav txtCenter clearfix"></ul>

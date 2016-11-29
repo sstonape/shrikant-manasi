@@ -199,7 +199,7 @@ input[type="text"]:focus {
 .events {
 	padding: 60px 0;
 	position: relative;	
-	background: url("../images/IMG_9777.JPG") center center no-repeat;
+	background: url("../images/edited/IMG_9777.jpg") center center no-repeat;
 	background-size: cover;
 	background-position: 0 -170px;
 }
@@ -321,7 +321,7 @@ input[type="text"]:focus {
 
 	.events{
 		padding: 40px 10px;
-		background: url(../images/shrikant-manasi8.JPG) left top no-repeat;
+		background: url(../images/edited/shrikant-manasi8.jpg) left top no-repeat;
 		background-size : cover;
 		background-position: -50px 0;
 		

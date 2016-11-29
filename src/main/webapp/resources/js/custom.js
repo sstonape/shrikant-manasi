@@ -23,20 +23,20 @@ var _initSlider = function(){
   $('.heroSlider').vegas({
       overlay: true,
       transition: 'fade', 
-      transitionDuration: 4000,
-      delay: 10000,
+      transitionDuration: 7000,
+      delay: 12000,
       color: 'red',
       animation: 'random',
-      animationDuration: 25000,
+      animationDuration: 20000,
       slides: [
-		{ src: 'resources/images/slide1.jpg' },
-		{ src: 'resources/images/shrikant-manasi2.JPG' },
+		{ src: 'resources/images/edited/slide1.jpg' },
+		{ src: 'resources/images/edited/shrikant-manasi2.jpg' },
 		{ src: 'resources/images/shrikant-manasi3.JPG' },
 		{ src: 'resources/images/shrikant-manasi6.JPG' },
-		{ src: 'resources/images/shrikant-manasi7.JPG' },
-		{ src: 'resources/images/shrikant-manasi8.JPG' },
-		{ src: 'resources/images/shrikant-manasi9.JPG' },
-		{ src: 'resources/images/shrikant-manasi11.JPG' },
+		{ src: 'resources/images/edited/shrikant-manasi7.jpg' },
+		{ src: 'resources/images/edited/shrikant-manasi8.jpg' },
+		{ src: 'resources/images/edited/shrikant-manasi9.jpg' },
+		{ src: 'resources/images/edited/shrikant-manasi11.jpg' },
       ]
     });
 };
